@@ -1,0 +1,46 @@
+Question: A math teacher gave students two tests, 25% of the class passed both the tests and 42% of the class passed the first test.What % of those "who passed the first test also passed the second test" ?
+
+Solution: P(Second|First) = P(First and Second)  = 0.25/0.42 = > 0.60 means ~60%
+                            -------------------
+                                P(First)
+
+
+
+P(Second | First) = P(First|Second).P(Second)
+                    -------------------------
+                            P(First)
+******************************************************************                            
+Bayes Theorem:
+
+A and B are two events
+P(B|A) = P(A|B).P(B)
+        --------------
+            P(A)
+Question:
+Approx for 1% of the women in the age group 40-50 have cancer. A women with cancer has 90% of chance of a +ve test from a mammogram, while a women without cancer has 10% chance of false +ve. What is the probaility a women has breat cancer given that she just has a +ve test result from a mammogram ?
+
+
+# Solution:
+A(+ve) = +ve test
+B(cancer) = Women has cancer
+P(cancer) = 0.01
+P(+ve|Cancer) = 0.90
+P(Cancer|+ve)  = ?????
+
+P(Cancer|+ve) = P(+ve|Cancer).P(cancer)
+                ---------------------
+                        P(+ve)
+P(+ve) = 0.01*0.90 + 0.99*0.10
+
+P(cancer|+ve) = 0.90*0.01
+                ---------- = 9/108 => 8.3%
+                0.009 + 0.099
+What does this output mean ?
+Ans: If a women goes to a doctor and she undergoes a mammogram test and the test comes  as +ve then there are only 8.3% of chance that she really has breast cancer.
+               
+
+
+
+
+
+

@@ -1,0 +1,533 @@
+#Middle name#Full name#value
+0# Braund# Mr. Owen Harris #1
+1# Heikkinen# Miss. Laina #0
+2# Allen# Mr. William Henry #0
+3# Moran# Mr. James #0
+4# McCarthy# Mr. Timothy J #0
+5# Bonnell# Miss. Elizabeth #0
+6# Andersson# Mr. Anders Johan #0
+7# Williams# Mr. Charles Eugene #1
+8# Masselmani# Mrs. Fatima #0
+9# Fynney# Mr. Joseph J #0
+10# Beesley# Mr. Lawrence #0
+11# Sloper# Mr. William Thompson #0
+12# Emir# Mr. Farred Chehab #0
+13# Todoroff# Mr. Lalio #0
+14# Uruchurtu# Don. Manuel E #1
+15# Glynn# Miss. Mary Agatha #0
+16# Wheadon# Mr. Edward H #0
+17# Meyer# Mr. Edgar Joseph #0
+18# Holverson# Mr. Alexander Oskar #0
+19# Mamee# Mr. Hanna #0
+20# Kraeff# Mr. Theodor #0
+21# Rogers# Mr. William John #1
+22# Lennon# Mr. Denis #0
+23# Samaan# Mr. Youssef #0
+24# Ostby# Mr. Engelhart Cornelius #0
+25# Woolner# Mr. Hugh #0
+26# Novel# Mr. Mansouer #0
+27# Sirayanian# Mr. Orsen #0
+28# Icard# Miss. Amelie #1
+29# Harris# Mr. Henry Birkhardt #0
+30# Stewart# Mr. Albert A #0
+31# Moubarek# Master. Gerios #0
+32# Kink# Mr. Vincenz #0
+33# Jenkin# Mr. Stephen Curnow #0
+34# Chronopoulos# Mr. Apostolos #0
+35# Bing# Mr. Lee #1
+36# Moen# Mr. Sigurd Hansen #0
+37# Staneff# Mr. Ivan #0
+38# Moutal# Mr. Rahamin Haim #0
+39# Dowdell# Miss. Elizabeth #0
+40# Waelens# Mr. Achille #0
+41# Sheerlinck# Mr. Jan Baptist #0
+42# McDermott# Miss. Brigdet Delia #1
+43# Carrau# Mr. Francisco M #0
+44# Slocovski# Mr. Selman Francis #0
+45# Fortune# Miss. Mabel Helen #0
+46# Celotti# Mr. Francesco #0
+47# Christmann# Mr. Emil #0
+48# Chaffee# Mr. Herbert Fuller #0
+49# Dean# Mr. Bertram Frank #1
+50# Coxon# Mr. Daniel #0
+51# Shorney# Mr. Charles Joseph #0
+52# Goldschmidt# Mr. George B #0
+53# Greenfield# Mr. William Bertram #0
+54# Kantor# Mr. Sinai #0
+55# Petranec# Miss. Matilda #0
+56# Johansson# Mr. Gustaf Joel #1
+57# Gustafsson# Mr. Anders Vilhelm #0
+58# Mionoff# Mr. Stoytcho #0
+59# Moss# Mr. Albert Johan #0
+60# Rekic# Mr. Tido #0
+61# Moran# Miss. Bertha #0
+62# Porter# Mr. Walter Chamberlain #0
+63# Barton# Mr. David John #1
+64# Connors# Mr. Patrick #0
+65# Turpin# Mr. William John Robert #0
+66# Baxter# Mr. Quigg Edmond #0
+67# Moore# Mr. Leonard Charles #0
+68# Nasser# Mr. Nicholas #0
+69# Webber# Miss. Susan #0
+70# White# Mr. Percival Wayland #1
+71# McMahon# Mr. Martin #0
+72# Madsen# Mr. Fridtjof Arne #0
+73# Peter# Miss. Anna #0
+74# Ekstrom# Mr. Johan #0
+75# Drazenoic# Mr. Jozef #0
+76# Sobey# Mr. Samuel James Hayden #0
+77# Richard# Mr. Emile #1
+78# Futrelle# Mr. Jacques Heath #0
+79# Giglio# Mr. Victor #0
+80# Nysten# Miss. Anna Sofia #0
+81# Byles# Rev. Thomas Roussel Davids #0
+82# Bateman# Rev. Robert James #0
+83# Meo# Mr. Alfonzo #0
+84# van Billiard# Mr. Austin Blyler #1
+85# Olsen# Mr. Ole Martin #0
+86# Williams# Mr. Charles Duane #0
+87# Corn# Mr. Harry #0
+88# Smiljanic# Mr. Mile #0
+89# Sage# Master. Thomas Henry #0
+90# Cribb# Mr. John Hatfield #0
+91# Bengtsson# Mr. John Viktor #1
+92# Baumann# Mr. John D #0
+93# Ling# Mr. Lee #0
+94# Van der hoef# Mr. Wyckoff #0
+95# Smith# Mr. James Clinch #0
+96# Lefebre# Master. Henry Forbes #0
+97# Isham# Miss. Ann Elizabeth #0
+98# Hale# Mr. Reginald #1
+99# Leonard# Mr. Lionel #0
+100# Sage# Miss. Constance Gladys #0
+101# Pernot# Mr. Rene #0
+102# Rood# Mr. Hugh Roscoe #0
+103# Bourke# Mr. John #0
+104# Turcin# Mr. Stjepan #0
+105# Lurette# Miss. Elise #1
+106# Mernagh# Mr. Robert #0
+107# Olsen# Mr. Karl Siegwart Andreas #0
+108# Vande Walle# Mr. Nestor Cyriel #0
+109# Sage# Mr. Frederick #0
+110# Johanson# Mr. Jakob Alfred #0
+111# Youseff# Mr. Gerious #0
+112# Backstrom# Mr. Karl Alfred #1
+113# Albimona# Mr. Nassef Cassem #0
+114# Blank# Mr. Henry #0
+115# Ali# Mr. Ahmed #0
+116# Cameron# Miss. Clear Annie #0
+117# Perkin# Mr. John Henry #0
+118# Givard# Mr. Hans Kristensen #0
+119# Kiernan# Mr. Philip #1
+120# Newell# Miss. Madeleine #0
+121# Honkanen# Miss. Eliina #0
+122# Jacobsohn# Mr. Sidney Samuel #0
+123# Bazzani# Miss. Albina #0
+124# Harris# Mr. Walter #0
+125# Bracken# Mr. James H #0
+126# Green# Mr. George Henry #1
+127# Nenkoff# Mr. Christo #0
+128# Hoyt# Mr. Frederick Maxfield #0
+129# Berglund# Mr. Karl Ivar Sven #0
+130# Lefebre# Miss. Mathilde #0
+131# Larsson# Mr. Bengt Edvin #0
+132# Sjostedt# Mr. Ernst Adolf #0
+133# Leyson# Mr. Robert William Norman #1
+134# Harknett# Miss. Alice Phoebe #0
+135# Hold# Mr. Stephen #0
+136# Hunt# Mr. George Henry #0
+137# Zabour# Miss. Thamine #0
+138# Coleridge# Mr. Reginald Charles #0
+139# Maenpaa# Mr. Matti Alexanteri #0
+140# Attalah# Mr. Sleiman #1
+141# Minahan# Dr. William Edward #0
+142# Lindahl# Miss. Agda Thorilda Viktoria #0
+143# Beckwith# Mr. Richard Leonard #0
+144# Carter# Rev. Ernest Courtenay #0
+145# Reed# Mr. James George #0
+146# Stead# Mr. William Thomas #0
+147# Lobb# Mr. William Arthur #1
+148# Thorne# Mrs. Gertrude Maybelle #0
+149# Cherry# Miss. Gladys #0
+150# Ward# Miss. Anna #0
+151# Smith# Mr. Thomas #0
+152# Taussig# Mr. Emil #0
+153# Harrison# Mr. William #0
+154# Henry# Miss. Delia #1
+155# Reeves# Mr. David #0
+156# Persson# Mr. Ernst Ulrik #0
+157# Bissette# Miss. Amelia #0
+158# Cairns# Mr. Alexander #0
+159# Tornquist# Mr. William Henry #0
+160# Natsch# Mr. Charles H #0
+161# Andrews# Miss. Kornelia Theodosia #1
+162# Lindblom# Miss. Augusta Charlotta #0
+163# Duane# Mr. Frank #0
+164# Olsson# Mr. Nils Johan Goransson #0
+165# Smith# Mr. Richard William #0
+166# Stankovic# Mr. Ivan #0
+167# de Mulder# Mr. Theodore #0
+168# Naidenoff# Mr. Penko #1
+169# Hosono# Mr. Masabumi #0
+170# Connolly# Miss. Kate #0
+171# Levy# Mr. Rene Jacques #0
+172# Haas# Miss. Aloisia #0
+173# Mineff# Mr. Ivan #0
+174# Lewy# Mr. Ervin G #0
+175# Hanna# Mr. Mansour #1
+176# Saalfeld# Mr. Adolphe #0
+177# McCoy# Mr. Bernard #0
+178# Keane# Miss. Nora A #0
+179# Fleming# Miss. Margaret #0
+180# Abelson# Mr. Samuel #0
+181# Francatelli# Miss. Laura Mabel #0
+182# Hays# Miss. Margaret Bechstein #1
+183# Hendekovic# Mr. Ignjac #0
+184# Hart# Mr. Benjamin #0
+185# Nilsson# Miss. Helmina Josefina #0
+186# Moraweck# Dr. Ernest #0
+187# Wick# Miss. Mary Natalie #0
+188# Dennis# Mr. Samuel #0
+189# Danoff# Mr. Yoto #1
+190# Slayter# Miss. Hilda Mary #0
+191# Sage# Mr. George John Jr #0
+192# Young# Miss. Marie Grice #0
+193# Nysveen# Mr. Johan Hansen #0
+194# McCoy# Miss. Agnes #0
+195# Partner# Mr. Austen #0
+196# Graham# Mr. George Edward #1
+197# Denkoff# Mr. Mitto #0
+198# Pears# Mr. Thomas Clinton #0
+199# Burns# Miss. Elizabeth Margaret #0
+200# Dahl# Mr. Karl Edwart #0
+201# Blackwell# Mr. Stephen Weart #0
+202# Fortune# Miss. Alice Elizabeth #0
+203# Collander# Mr. Erik Gustaf #1
+204# Sedgwick# Mr. Charles Frederick Waddington #0
+205# Fox# Mr. Stanley Hubert #0
+206# Smith# Miss. Marion Elsie #0
+207# Dimic# Mr. Jovan #0
+208# Odahl# Mr. Nils Martin #0
+209# Williams-Lambert# Mr. Fletcher Fellows #0
+210# Arnold-Franchi# Mr. Josef #1
+211# Yousif# Mr. Wazli #0
+212# Vanden Steen# Mr. Leo Peter #0
+213# Bowerman# Miss. Elsie Edith #0
+214# Funk# Miss. Annie Clemmer #0
+215# McGovern# Miss. Mary #0
+216# Skoog# Mr. Wilhelm #0
+217# del Carlo# Mr. Sebastiano #1
+218# Asim# Mr. Adola #0
+219# Adahl# Mr. Mauritz Nils Martin #0
+220# Jermyn# Miss. Annie #0
+221# Aubart# Mme. Leontine Pauline #0
+222# Harder# Mr. George Achilles #0
+223# Ringhini# Mr. Sante #0
+224# Landergren# Miss. Aurora Adelia #1
+225# Widener# Mr. Harry Elkins #0
+226# Bidois# Miss. Rosalie #0
+227# Tikkanen# Mr. Juho #0
+228# Plotcharsky# Mr. Vasil #0
+229# Buss# Miss. Kate #0
+230# Sadlier# Mr. Matthew #0
+231# Carter# Mr. William Ernest #1
+232# Gustafsson# Mr. Johan Birger #0
+233# Newell# Miss. Marjorie #0
+234# Johansson# Mr. Erik #0
+235# Olsson# Miss. Elina #0
+236# McKane# Mr. Peter David #0
+237# Pain# Dr. Alfred #0
+238# Niskanen# Mr. Juha #1
+239# Adams# Mr. John #0
+240# Hakkarainen# Mr. Pekka Pietari #0
+241# Gale# Mr. Shadrach #0
+242# Widegren# Mr. Carl/Charles Peter #0
+243# Lefebre# Miss. Ida #0
+244# Sdycoff# Mr. Todor #0
+245# Hart# Mr. Henry #1
+246# Minahan# Miss. Daisy E #0
+247# Cunningham# Mr. Alfred Fleming #0
+248# Sundman# Mr. Johan Julian #0
+249# Matthews# Mr. William John #0
+250# Gheorgheff# Mr. Stanio #0
+251# Zimmerman# Mr. Leo #0
+252# Wiseman# Mr. Phillippe #1
+253# Flynn# Mr. James #0
+254# Bjornstrom-Steffansson# Mr. Mauritz Hakan #0
+255# Silvey# Mr. William Baird #0
+256# Fortune# Mr. Mark #0
+257# Kvillner# Mr. Johan Henrik Johannesson #0
+258# Petterson# Mr. Johan Emil #0
+259# Reynaldo# Ms. Encarnacion #1
+260# Johannesen-Bratthammer# Mr. Bernt #0
+261# Seward# Mr. Frederic Kimber #0
+262# Peuchen# Major. Arthur Godfrey #0
+263# West# Mr. Edwy Arthur #0
+264# Hagland# Mr. Ingvald Olai Olsen #0
+265# Foreman# Mr. Benjamin Laventall #0
+266# Goldenberg# Mr. Samuel L #1
+267# Peduzzi# Mr. Joseph #0
+268# Jalsevac# Mr. Ivan #0
+269# Millet# Mr. Francis Davis #0
+270# Toomey# Miss. Ellen #0
+271# Anderson# Mr. Harry #0
+272# Morley# Mr. William #0
+273# Gee# Mr. Arthur H #1
+274# Milling# Mr. Jacob Christian #0
+275# Maisner# Mr. Simon #0
+276# Goncalves# Mr. Manuel Estanslas #0
+277# Campbell# Mr. William #0
+278# Smart# Mr. John Montgomery #0
+279# Scanlan# Mr. James #0
+280# Keefe# Mr. Arthur #1
+281# Cacic# Mr. Luka #0
+282# Strandberg# Miss. Ida Sofia #0
+283# Clifford# Mr. George Quincy #0
+284# Renouf# Mr. Peter Henry #0
+285# Braund# Mr. Lewis Richard #0
+286# Karlsson# Mr. Nils August #0
+287# Rouse# Mr. Richard Henry #1
+288# Bishop# Mr. Dickinson H #0
+289# Lefebre# Miss. Jeannie #0
+290# Kent# Mr. Edward Austin #0
+291# Somerton# Mr. Francis William #0
+292# Hagland# Mr. Konrad Mathias Reiersen #0
+293# Molson# Mr. Harry Markland #0
+294# Artagaveytia# Mr. Ramon #1
+295# Yousseff# Mr. Gerious #0
+296# Eustis# Miss. Elizabeth Mussey #0
+297# Shellard# Mr. Frederick William #0
+298# Svensson# Mr. Olof #0
+299# Laitinen# Miss. Kristina Sofia #0
+300# Olsen# Mr. Henry Margido #0
+301# Lang# Mr. Fang #1
+302# Daly# Mr. Eugene Patrick #0
+303# Webber# Mr. James #0
+304# McGough# Mr. James Robert #0
+305# Coleff# Mr. Satio #0
+306# Walker# Mr. William Anderson #0
+307# Ryan# Mr. Patrick #0
+308# Pavlovic# Mr. Stefo #1
+309# Perreault# Miss. Anne #0
+310# Vovk# Mr. Janko #0
+311# Lahoud# Mr. Sarkis #0
+312# Kassem# Mr. Fared #0
+313# Farrell# Mr. James #0
+314# Ridsdale# Miss. Lucy #0
+315# Farthing# Mr. John #1
+316# Salonen# Mr. Johan Werner #0
+317# Hocking# Mr. Richard George #0
+318# Toufik# Mr. Nakli #0
+319# Cacic# Miss. Marija #0
+320# Butt# Major. Archibald Willingham #0
+321# LeRoy# Miss. Bertha #0
+322# Risien# Mr. Samuel Beard #1
+323# Frolicher# Miss. Hedwig Margaritha #0
+324# Crosby# Miss. Harriet R #0
+325# Beane# Mr. Edward #0
+326# Douglas# Mr. Walter Donald #0
+327# Nicholson# Mr. Arthur Ernest #0
+328# Padro y Manent# Mr. Julian #0
+329# Goldsmith# Mr. Frank John #1
+330# Sharp# Mr. Percival James R #0
+331# Ohman# Miss. Velin #0
+332# Wright# Mr. George #0
+333# Robbins# Mr. Victor #0
+334# Morrow# Mr. Thomas Rowan #0
+335# Sivic# Mr. Husein #0
+336# Norman# Mr. Robert Douglas #1
+337# Simmons# Mr. John #0
+338# Davies# Mr. Alfred J #0
+339# Doharr# Mr. Tannous #0
+340# Jonsson# Mr. Carl #0
+341# Harris# Mr. George #0
+342# Kelly# Miss. Mary #0
+343# Garside# Miss. Ethel #1
+344# Jussila# Mr. Eiriik #0
+345# Christy# Miss. Julie Rachel #0
+346# Downton# Mr. William James #0
+347# Ross# Mr. John Hugo #0
+348# Paulner# Mr. Uscher #0
+349# Jarvis# Mr. John Denzil #0
+350# Frolicher-Stehli# Mr. Maxmillian #1
+351# Gilinski# Mr. Eliezer #0
+352# Murdlin# Mr. Joseph #0
+353# Rintamaki# Mr. Matti #0
+354# Elsbury# Mr. William James #0
+355# Bourke# Miss. Mary #0
+356# Chapman# Mr. John Henry #0
+357# Van Impe# Mr. Jean Baptiste #1
+358# Leitch# Miss. Jessie Wills #0
+359# Johnson# Mr. Alfred #0
+360# Boulos# Mr. Hanna #0
+361# Slabenoff# Mr. Petco #0
+362# Harrington# Mr. Charles H #0
+363# Torber# Mr. Ernst William #0
+364# Lindell# Mr. Edvard Bengtsson #1
+365# Karaic# Mr. Milan #0
+366# Daniel# Mr. Robert Williams #0
+367# Shutes# Miss. Elizabeth W #0
+368# Jardin# Mr. Jose Neto #0
+369# Murphy# Miss. Margaret Jane #0
+370# Horgan# Mr. John #0
+371# Brocklebank# Mr. William Alfred #1
+372# Herman# Miss. Alice #0
+373# Danbom# Mr. Ernst Gilbert #0
+374# Gavey# Mr. Lawrence #0
+375# Yasbeck# Mr. Antoni #0
+376# Kimball# Mr. Edwin Nelson Jr #0
+377# Sutton# Mr. Frederick #0
+378# Kirkland# Rev. Charles Leonard #1
+379# Bostandyeff# Mr. Guentcho #0
+380# Barkworth# Mr. Algernon Henry Wilson #0
+381# Lundahl# Mr. Johan Svensson #0
+382# Stahelin-Maeglin# Dr. Max #0
+383# Parr# Mr. William Henry Marsh #0
+384# Davis# Miss. Mary #0
+385# Leinonen# Mr. Antti Gustaf #1
+386# Collyer# Mr. Harvey #0
+387# Thorneycroft# Mr. Percival #0
+388# Sagesser# Mlle. Emma #0
+389# Foo# Mr. Choong #0
+390# Harper# Mr. Henry Sleeper #0
+391# Simonius-Blumer# Col. Oberst Alfons #0
+392# Willey# Mr. Edward #1
+393# Stanley# Miss. Amy Zillah Elsie #0
+394# Mitkoff# Mr. Mito #0
+395# Hickman# Mr. Leonard Mark #0
+396# Radeff# Mr. Alexander #0
+397# Eitemiller# Mr. George Floyd #0
+398# Newell# Mr. Arthur Webster #0
+399# Frauenthal# Dr. Henry William #1
+400# Badt# Mr. Mohamed #0
+401# Colley# Mr. Edward Pomeroy #0
+402# Coleff# Mr. Peju #0
+403# Hickman# Mr. Lewis #0
+404# Butler# Mr. Reginald Fenton #0
+405# Rommetvedt# Mr. Knud Paust #0
+406# Cook# Mr. Jacob #1
+407# Davidson# Mr. Thornton #0
+408# Mitchell# Mr. Henry Michael #0
+409# Wilhelms# Mr. Charles #0
+410# Watson# Mr. Ennis Hastings #0
+411# Sawyer# Mr. Frederick Charles #0
+412# Cardeza# Mr. Thomas Drake Martinez #0
+413# Peters# Miss. Katie #1
+414# Hassab# Mr. Hammad #0
+415# Brown# Mr. Thomas William Solomon #0
+416# Laroche# Mr. Joseph Philippe Lemercier #0
+417# Dick# Mr. Albert Adrian #0
+418# Lam# Mr. Ali #0
+419# Saad# Mr. Khalil #0
+420# Weir# Col. John #1
+421# Chapman# Mr. Charles Henry #0
+422# Kelly# Mr. James #0
+423# Thayer# Mr. John Borland #0
+424# Humblen# Mr. Adolf Mathias Nicolai Olsen #0
+425# Silverthorne# Mr. Spencer Victor #0
+426# Gallagher# Mr. Martin #0
+427# Hansen# Mr. Henrik Juul #1
+428# Calderhead# Mr. Edward Pennington #0
+429# Cleaver# Miss. Alice #0
+430# Klaber# Mr. Herman #0
+431# Taylor# Mr. Elmer Zebley #0
+432# Larsson# Mr. August Viktor #0
+433# Greenberg# Mr. Samuel #0
+434# Endres# Miss. Caroline Louise #1
+435# McEvoy# Mr. Michael #0
+436# Johnson# Mr. Malkolm Joackim #0
+437# Gillespie# Mr. William Henry #0
+438# Hodges# Mr. Henry Price #0
+439# Chambers# Mr. Norman Campbell #0
+440# Mannion# Miss. Margareth #0
+441# Bryhl# Mr. Kurt Arnold Gottfrid #1
+442# Ilmakangas# Miss. Pieta Sofia #0
+443# Allen# Miss. Elisabeth Walton #0
+444# Knight# Mr. Robert J #0
+445# Berriman# Mr. William John #0
+446# Troupiansky# Mr. Moses Aaron #0
+447# Williams# Mr. Leslie #0
+448# Lesurer# Mr. Gustave J #1
+449# Ivanoff# Mr. Kanio #0
+450# Nankoff# Mr. Minko #0
+451# Hawksford# Mr. Walter James #0
+452# Cavendish# Mr. Tyrell William #0
+453# McNamee# Mr. Neal #0
+454# Stranden# Mr. Juho #0
+455# Crosby# Capt. Edward Gifford #1
+456# Sinkkonen# Miss. Anna #0
+457# Connaghton# Mr. Michael #0
+458# Vande Velde# Mr. Johannes Joseph #0
+459# Jonkoff# Mr. Lalio #0
+460# Carlsson# Mr. August Sigfrid #0
+461# Theobald# Mr. Thomas Leonard #0
+462# Garfirth# Mr. John #1
+463# Nirva# Mr. Iisakki Antino Aijo #0
+464# Brewe# Dr. Arthur Jackson #0
+465# Mangan# Miss. Mary #0
+466# Moran# Mr. Daniel J #0
+467# Gronnestad# Mr. Daniel Danielsen #0
+468# Lievens# Mr. Rene Aime #0
+469# Jensen# Mr. Niels Peder #1
+470# Elias# Mr. Dibo #0
+471# Tobin# Mr. Roger #0
+472# Kilgannon# Mr. Thomas J #0
+473# Long# Mr. Milton Clyde #0
+474# Johnston# Mr. Andrew G #0
+475# Ali# Mr. William #0
+476# Guggenheim# Mr. Benjamin #1
+477# Sage# Miss. Stella Anna #0
+478# Hoyt# Mr. William Fisher #0
+479# Dantcheff# Mr. Ristiu #0
+480# Otter# Mr. Richard #0
+481# Osman# Mrs. Mara #0
+482# Ibrahim Shawah# Mr. Yousseff #0
+483# Ponesell# Mr. Martin #1
+484# Hedman# Mr. Oskar Arvid #0
+485# Johansson# Mr. Karl Johan #0
+486# Andrews# Mr. Thomas Jr #0
+487# Meyer# Mr. August #0
+488# Alexander# Mr. William #0
+489# Lester# Mr. James #0
+490# Slemen# Mr. Richard James #1
+491# Tomlin# Mr. Ernest Portage #0
+492# Fry# Mr. Richard #0
+493# Heininen# Miss. Wendla Maria #0
+494# Mallet# Mr. Albert #0
+495# Holm# Mr. John Fredrik Alexander #0
+496# Lulic# Mr. Nikola #0
+497# Reuchlin# Jonkheer. John George #1
+498# Flynn# Mr. John #0
+499# Lam# Mr. Len #0
+500# McCormack# Mr. Thomas Joseph #0
+501# Saad# Mr. Amin #0
+502# Augustsson# Mr. Albert #0
+503# Compton# Miss. Sara Rebecca #0
+504# Sirota# Mr. Maurice #1
+505# Chip# Mr. Chang #0
+506# Marechal# Mr. Pierre #0
+507# Serepeca# Miss. Augusta #0
+508# Lemberopolous# Mr. Peter L #0
+509# Abbing# Mr. Anthony #0
+510# Sage# Mr. Douglas Bullen #0
+511# Markoff# Mr. Marin #1
+512# Harper# Rev. John #0
+513# Svensson# Mr. Johan #0
+514# Daly# Mr. Peter Denis  #0
+515# Razi# Mr. Raihed #0
+516# Hansen# Mr. Claus Peter #0
+517# Gill# Mr. John William #0
+518# Duran y More# Miss. Asuncion #1
+519# Roebling# Mr. Washington Augustus II #0
+520# van Melkebeke# Mr. Philemon #0
+521# Balkic# Mr. Cerin #0
+522# Carlsson# Mr. Frans Olof #0
+523# Vander Cruyssen# Mr. Victor #0
+524# Laleff# Mr. Kristo #0
+525# Markun# Mr. Johann #1
+526# Dahlberg# Miss. Gerda Ulrika #0
+527# Banfield# Mr. Frederick James #0
+528# Sutehall# Mr. Henry Jr #0
+529# Montvila# Rev. Juozas #0
+530# Behr# Mr. Karl Howell #0
+531# Dooley# Mr. Patrick #0
